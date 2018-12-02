@@ -1,0 +1,14 @@
+{
+  "name": "AoC2018",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexandre Gaudencio <shahor@shahor.fr>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.1"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.11"
+  }
+}
